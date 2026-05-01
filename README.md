@@ -5,7 +5,7 @@ Useful during the reconnaissance phase of penetration testing to quickly filter 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Checks HTTP response status using `curl`
 - Identifies live URLs (200, 301, 302)
@@ -14,14 +14,14 @@ Useful during the reconnaissance phase of penetration testing to quickly filter 
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Bash
 - curl
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 ```bash
 chmod +x alive_checker.sh
